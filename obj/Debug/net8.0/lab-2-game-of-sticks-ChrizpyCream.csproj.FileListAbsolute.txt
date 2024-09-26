@@ -1,0 +1,15 @@
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\bin\Debug\net8.0\lab-2-game-of-sticks-ChrizpyCream.exe
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\bin\Debug\net8.0\lab-2-game-of-sticks-ChrizpyCream.deps.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\bin\Debug\net8.0\lab-2-game-of-sticks-ChrizpyCream.runtimeconfig.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\bin\Debug\net8.0\lab-2-game-of-sticks-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\bin\Debug\net8.0\lab-2-game-of-sticks-ChrizpyCream.pdb
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\obj\Debug\net8.0\lab-2-game-of-sticks-ChrizpyCream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\obj\Debug\net8.0\lab-2-game-of-sticks-ChrizpyCream.AssemblyInfoInputs.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\obj\Debug\net8.0\lab-2-game-of-sticks-ChrizpyCream.AssemblyInfo.cs
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\obj\Debug\net8.0\lab-2-game-of-sticks-ChrizpyCream.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\obj\Debug\net8.0\lab-2-game-of-sticks-ChrizpyCream.sourcelink.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\obj\Debug\net8.0\lab-2-game-of-sticks-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\obj\Debug\net8.0\refint\lab-2-game-of-sticks-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\obj\Debug\net8.0\lab-2-game-of-sticks-ChrizpyCream.pdb
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\obj\Debug\net8.0\lab-2-game-of-sticks-ChrizpyCream.genruntimeconfig.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-2-game-of-sticks-ChrizpyCream\obj\Debug\net8.0\ref\lab-2-game-of-sticks-ChrizpyCream.dll
